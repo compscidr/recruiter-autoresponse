@@ -12,7 +12,7 @@ Thanks so much for reaching out. I'm always interested in hearing about what new
 
 It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
 
-I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
+I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. I've been a senior software engineer for my last couple of positions. Prior to that I was the first engineer on a project which raised $30M and grew into the CTO role. I'm also quite happy where I am presently, so I would only consider a move which I don't perceive as horizontal.
 
 Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
 
@@ -23,5 +23,5 @@ Thanks again for reaching out!
  
 I look forward to hearing from you.
 
-Alex
+Jason
 ```
